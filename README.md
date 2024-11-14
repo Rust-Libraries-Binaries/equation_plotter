@@ -1,5 +1,5 @@
 ## Archived Repository
-This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.##
+This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.
 
 ## Equation Plotter
 A Rust program to plot mathematical equations and save them as PNG files.
