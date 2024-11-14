@@ -1,9 +1,9 @@
 [package]
 name = "equation_plotter"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "A Rust program to plot mathematical equations and save as PNG files."
-repository = "https://github.com/bensatlantik/Rust-Libraries-Binaries"
+repository = "https://github.com/Rust-Libraries-Binaries"
 license = "MIT"
 edition = "2021"
 
